@@ -201,7 +201,7 @@ namespace SchedulerApp
         {
             if (string.IsNullOrWhiteSpace(titleBox.Text))
             {
-                MessageBox.Show("Event title cannot be empty.", "Missing Title", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Title in the event cannot be empty!", "Missing Title", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
