@@ -16,12 +16,6 @@ A sleek and fully functional desktop scheduling app built with **C#** and **.NET
 
 ---
 
-## 📷 Screenshots
-
-> Add screenshots of your app here if you'd like
-
----
-
 ## 📦 Technologies Used
 
 - **.NET 6 / .NET 7**
